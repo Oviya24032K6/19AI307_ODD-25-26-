@@ -19,8 +19,8 @@ To implement exception handling in Java by safely performing division and managi
  ```
 /*
 Program to implement a Exception Handling using Java
-Developed by: Dharunyadevi S
-RegisterNumber: 212223220018
+Developed by: OVIYA P
+RegisterNumber: 212223110033
 */
 ```
 
